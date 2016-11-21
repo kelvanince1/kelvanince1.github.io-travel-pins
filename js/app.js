@@ -11,6 +11,7 @@ $(document).ready(function() {
     e.preventDefault();
     clickNewPin();
   });
+  
   // Signing into the website.
   $('#signin').on('click', function(e) {
     e.preventDefault();
